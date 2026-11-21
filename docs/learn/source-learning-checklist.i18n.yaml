@@ -1,0 +1,88 @@
+# Bilingual-pair consistency record for source-learning-checklist.md (docs/i18n/README.md): per heading
+# section, a hash of its English and Chinese blocks outside code blocks and generated regions.
+# After editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/learn/source-learning-checklist.md
+/deepseek-harness-source-learning-checklist:
+  en: 0be5d143e7f50619
+  zh: 55eb6ecf350c602c
+/deepseek-harness-source-learning-checklist/summary:
+  en: b1035355a0c48ffe
+  zh: 36b5261731c5fcdc
+/deepseek-harness-source-learning-checklist/table-of-contents:
+  en: 17103f3f771d30e5
+  zh: a5dc31df5b8cb48a
+/deepseek-harness-source-learning-checklist/study-method-and-schedule:
+  en: f4e74758fc88c33d
+  zh: 99915990f0aed421
+/deepseek-harness-source-learning-checklist/build-the-overall-picture:
+  en: 41f5b35a0333517b
+  zh: 0b9b0ee1eeb0d882
+/deepseek-harness-source-learning-checklist/stage-0-define-your-learning-goals:
+  en: 77e3cea1e8d31ab1
+  zh: fb5d8c9b46333029
+/deepseek-harness-source-learning-checklist/stage-1-prepare-technical-foundations-and-understand-the-environment:
+  en: adf122d8c7efe2c4
+  zh: 4d1fe1283e47ac46
+/deepseek-harness-source-learning-checklist/stage-2-navigate-the-repository:
+  en: 7543efe9fa353644
+  zh: d93f250878757490
+/deepseek-harness-source-learning-checklist/stage-3-understand-cordis-plugins:
+  en: 9b51e137f471bc21
+  zh: 06639edf66aab069
+/deepseek-harness-source-learning-checklist/stage-4-trace-startup-profiles-and-configuration-composition:
+  en: ae769beb0be45b1c
+  zh: 91adf54ce461612d
+/deepseek-harness-source-learning-checklist/stage-5-separate-the-core-services-responsibilities:
+  en: 720ce0ac74efbc1d
+  zh: d89b92ecb38c0168
+/deepseek-harness-source-learning-checklist/stage-6-trace-a-complete-turn:
+  en: 17ca23db332a749a
+  zh: 78c37e4356e0d873
+/deepseek-harness-source-learning-checklist/stage-7-explore-tool-registration-and-execution:
+  en: 171ca77056a92510
+  zh: 7002d1830c61abe4
+/deepseek-harness-source-learning-checklist/stage-8-understand-model-adapters-prompts-and-context:
+  en: 4e45f019036d7d4a
+  zh: a5615432e878b6a6
+/deepseek-harness-source-learning-checklist/stage-9-understand-session-logs-persistence-and-projections:
+  en: 20ce3eaa2d9d55ae
+  zh: cf2522c71653cd71
+/deepseek-harness-source-learning-checklist/stage-10-understand-cancellation-errors-permissions-and-cleanup:
+  en: b19a1a116f964988
+  zh: 1c443c924ffc41ce
+/deepseek-harness-source-learning-checklist/stage-11-learn-behavior-through-tests:
+  en: 3503c17f55703431
+  zh: f118c2cb54931767
+/deepseek-harness-source-learning-checklist/stage-12-design-and-implement-your-first-tool-plugin:
+  en: 70eb894f05ae5662
+  zh: 77dcb40470ec11e6
+/deepseek-harness-source-learning-checklist/elective-routes:
+  en: d0fe1bb61276ab94
+  zh: 551955e577ea8bf5
+/deepseek-harness-source-learning-checklist/elective-routes/a-web-and-client:
+  en: 0e102838c4c1041a
+  zh: 89cfd4ca0cf55399
+/deepseek-harness-source-learning-checklist/elective-routes/b-typescript-and-python-sdks:
+  en: b936ae3c265f296f
+  zh: 93df92ffdc446ee0
+/deepseek-harness-source-learning-checklist/elective-routes/c-subagents-goals-and-workflows:
+  en: e0bcbb29b5f21636
+  zh: ac98394934d5adcb
+/deepseek-harness-source-learning-checklist/elective-routes/d-system-capabilities-mcp-and-tool-integration:
+  en: 8a6c73537e46a2f8
+  zh: cc6b0575d6712061
+/deepseek-harness-source-learning-checklist/elective-routes/e-desktop-builds-and-performance:
+  en: 4f64b882ae4dc983
+  zh: d3a26a6659ffecc8
+/deepseek-harness-source-learning-checklist/integrated-exercises-and-final-assessment:
+  en: 02503ce80c883fa4
+  zh: a57d844b8f955e1c
+/deepseek-harness-source-learning-checklist/reading-record-template:
+  en: bb14ddd1fa76b89a
+  zh: 28f187685893fdff
+/deepseek-harness-source-learning-checklist/further-exploration:
+  en: 53216f053d3ec6af
+  zh: e75473add4997c74
+/deepseek-harness-source-learning-checklist/dev-note:
+  en: 50b74fefe30e1eb5
+  zh: 910f57f68eb2f199
